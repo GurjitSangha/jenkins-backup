@@ -25,7 +25,8 @@
     <submoduleCfg class="list"/>
     <extensions/>
   </scm>
-  <canRoam>true</canRoam>
+  <assignedNode>windows</assignedNode>
+  <canRoam>false</canRoam>
   <disabled>false</disabled>
   <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
   <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
@@ -61,7 +62,7 @@
       <adapters>
         <hudson.plugins.deploy.tomcat.Tomcat7xAdapter>
           <userName>admin</userName>
-          <passwordScrambled>YWRtaW4=</passwordScrambled>
+          <passwordScrambled>MDQ2ZTA1NjA0NmM4NDJhZThjODFlODllODU1MjM4NmQ=</passwordScrambled>
           <url>http://52.209.72.88:8181/</url>
         </hudson.plugins.deploy.tomcat.Tomcat7xAdapter>
       </adapters>
